@@ -12,6 +12,7 @@
 			"name": "studio"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -46,6 +47,7 @@
 			"type": 8
 		}
 	],
+	"date": 1591640589,
 	"events": [
 		{
 			"event": 2001,
@@ -155,7 +157,11 @@
 	],
 	"id": 1414743113,
 	"md5": "bb09c3cf36a2e6e104921b3dfa9d787e",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "gordon.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

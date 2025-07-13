@@ -38,6 +38,7 @@
 			"name": "wings"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 10,
@@ -72,6 +73,7 @@
 			"type": 8
 		}
 	],
+	"date": 1700178923,
 	"events": [
 		{
 			"event": 2001,
@@ -181,7 +183,11 @@
 	],
 	"id": 1414743113,
 	"md5": "2945b1960c97776801c79309909d8b22",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "v1.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

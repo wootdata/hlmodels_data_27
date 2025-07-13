@@ -33,6 +33,7 @@
 			"name": "studio"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 2,
@@ -67,6 +68,7 @@
 			"type": 8
 		}
 	],
+	"date": 1057987362,
 	"events": [
 		{
 			"event": 2001,
@@ -176,7 +178,11 @@
 	],
 	"id": 1414743113,
 	"md5": "8b135db88c918157ea0e4a199f6d0b65",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "TFhvyweapon.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

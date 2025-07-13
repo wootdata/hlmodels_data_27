@@ -28,6 +28,7 @@
 			"name": "blckrnjau"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -62,6 +63,7 @@
 			"type": 8
 		}
 	],
+	"date": 1606155323,
 	"events": [
 		{
 			"event": 2001,
@@ -171,7 +173,11 @@
 	],
 	"id": 1414743113,
 	"md5": "7f733f32a0fc0bd4d8b01db933c55cd3",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Helmet.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

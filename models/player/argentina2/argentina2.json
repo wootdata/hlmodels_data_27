@@ -33,6 +33,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 14,
@@ -67,6 +68,7 @@
 			"type": 8
 		}
 	],
+	"date": 1291652412,
 	"events": [
 		{
 			"event": 2001,
@@ -176,7 +178,11 @@
 	],
 	"id": 1414743113,
 	"md5": "b20ff3b4859fb0b89d3f074f72f05826",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "i:/hlsdk/playermodels/player/Punisher/Punisher.mdl",
+	"preview": false,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

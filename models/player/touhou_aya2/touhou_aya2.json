@@ -98,6 +98,7 @@
 			"name": "wing"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -132,6 +133,7 @@
 			"type": 8
 		}
 	],
+	"date": 1712499428,
 	"events": [
 		{
 			"event": 2001,
@@ -241,7 +243,11 @@
 	],
 	"id": 1414743113,
 	"md5": "9025327e09698318bf65067f39c1ef35",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "TH_Aya1.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

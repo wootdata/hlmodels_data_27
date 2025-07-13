@@ -28,6 +28,7 @@
 			"name": "i_love_ezequielTM"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 8,
@@ -62,6 +63,7 @@
 			"type": 8
 		}
 	],
+	"date": 1561562364,
 	"events": [
 		{
 			"event": 2001,
@@ -171,7 +173,11 @@
 	],
 	"id": 1414743113,
 	"md5": "e5d2d159254cc72c5f141a15d4bd7d09",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "recon.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{
