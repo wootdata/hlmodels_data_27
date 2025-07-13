@@ -1,17 +1,17 @@
 {
 	"attachments": [
 		{
-			"bone": 33,
+			"bone": 50,
 			"name": "",
 			"type": 0
 		}, 
 		{
-			"bone": 33,
+			"bone": 50,
 			"name": "",
 			"type": 0
 		}, 
 		{
-			"bone": 33,
+			"bone": 50,
 			"name": "",
 			"type": 0
 		}
@@ -20,9 +20,14 @@
 		{
 			"models": [
 				{
-					"name": "../dmatch/lowcount/assassin/assassin",
-					"polys": 958,
-					"verts": 489
+					"name": "../dmatch/hgrunt/grunt(reference)",
+					"polys": 1480,
+					"verts": 387
+				}, 
+				{
+					"name": "../dmatch/hgrunt/grunt(reference)",
+					"polys": 1480,
+					"verts": 387
 				}
 			],
 			"name": "body"
@@ -31,7 +36,7 @@
 	"colorable": false,
 	"controllers": [
 		{
-			"bone": 8,
+			"bone": 22,
 			"end": 30.000000,
 			"index": 0,
 			"rest": 0,
@@ -39,7 +44,7 @@
 			"type": 8
 		}, 
 		{
-			"bone": 9,
+			"bone": 23,
 			"end": 30.000000,
 			"index": 1,
 			"rest": 0,
@@ -47,7 +52,7 @@
 			"type": 8
 		}, 
 		{
-			"bone": 10,
+			"bone": 24,
 			"end": 30.000000,
 			"index": 2,
 			"rest": 0,
@@ -55,7 +60,7 @@
 			"type": 8
 		}, 
 		{
-			"bone": 11,
+			"bone": 25,
 			"end": 30.000000,
 			"index": 3,
 			"rest": 0,
@@ -63,7 +68,7 @@
 			"type": 8
 		}
 	],
-	"date": 1098055320,
+	"date": 1098059700,
 	"events": [
 		{
 			"event": 2001,
@@ -172,12 +177,12 @@
 		}
 	],
 	"id": 1414743113,
-	"md5": "d0551c7255fefc9c1fcfecce3bd27bf7",
+	"md5": "919a45e88f2e1ba1a83c796c88190eaa",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
-	"name": "valve/models/player/assassin/assassin.mdl",
+	"name": "player/Hgrunt/Hgrunt.mdl",
 	"preview": false,
-	"readme": false,
+	"readme": true,
 	"seq_groups": "1",
 	"sequences": [
 		{
@@ -566,7 +571,7 @@
 			"name": "deadtable"
 		}
 	],
-	"size": 331319,
+	"size": 757352,
 	"skeleton": [
 		{
 			"name": "Bip01",
@@ -589,16 +594,72 @@
 			"parent": 3
 		}, 
 		{
+			"name": "Bip01 L Toe0",
+			"parent": 4
+		}, 
+		{
+			"name": "Bip01 L Toe01",
+			"parent": 5
+		}, 
+		{
+			"name": "Bip01 L Toe02",
+			"parent": 6
+		}, 
+		{
 			"name": "Bip01 R Leg",
 			"parent": 1
 		}, 
 		{
 			"name": "Bip01 R Leg1",
-			"parent": 5
+			"parent": 8
 		}, 
 		{
 			"name": "Bip01 R Foot",
-			"parent": 6
+			"parent": 9
+		}, 
+		{
+			"name": "Bip01 R Toe0",
+			"parent": 10
+		}, 
+		{
+			"name": "Bip01 R Toe01",
+			"parent": 11
+		}, 
+		{
+			"name": "Bip01 R Toe02",
+			"parent": 12
+		}, 
+		{
+			"name": "Bone01",
+			"parent": 8
+		}, 
+		{
+			"name": "Bone16",
+			"parent": 14
+		}, 
+		{
+			"name": "Bone17",
+			"parent": 15
+		}, 
+		{
+			"name": "Bone18",
+			"parent": 16
+		}, 
+		{
+			"name": "Bone19",
+			"parent": 17
+		}, 
+		{
+			"name": "Bone20",
+			"parent": 18
+		}, 
+		{
+			"name": "Bone21",
+			"parent": 19
+		}, 
+		{
+			"name": "Bone22",
+			"parent": 20
 		}, 
 		{
 			"name": "Bip01 Spine",
@@ -606,115 +667,139 @@
 		}, 
 		{
 			"name": "Bip01 Spine1",
-			"parent": 8
+			"parent": 22
 		}, 
 		{
 			"name": "Bip01 Spine2",
-			"parent": 9
+			"parent": 23
 		}, 
 		{
 			"name": "Bip01 Spine3",
-			"parent": 10
+			"parent": 24
 		}, 
 		{
 			"name": "Bip01 Neck",
-			"parent": 11
-		}, 
-		{
-			"name": "Bip01 Head",
-			"parent": 12
-		}, 
-		{
-			"name": "Dummy08",
-			"parent": 13
-		}, 
-		{
-			"name": "Bone02",
-			"parent": 14
-		}, 
-		{
-			"name": "Bone03",
-			"parent": 15
-		}, 
-		{
-			"name": "Dummy05",
-			"parent": 13
-		}, 
-		{
-			"name": "Bone09",
-			"parent": 17
-		}, 
-		{
-			"name": "Dummy04",
-			"parent": 13
-		}, 
-		{
-			"name": "Bone05",
-			"parent": 19
-		}, 
-		{
-			"name": "Dummy03",
-			"parent": 13
-		}, 
-		{
-			"name": "Bone07",
-			"parent": 21
-		}, 
-		{
-			"name": "Dummy09",
-			"parent": 13
-		}, 
-		{
-			"name": "Dummy10",
-			"parent": 13
-		}, 
-		{
-			"name": "Bip01 L Arm",
-			"parent": 12
-		}, 
-		{
-			"name": "Bip01 L Arm1",
 			"parent": 25
 		}, 
 		{
-			"name": "Bip01 L Arm2",
+			"name": "Bip01 Head",
 			"parent": 26
 		}, 
 		{
-			"name": "Bip01 L Hand",
+			"name": "Dummy08",
 			"parent": 27
 		}, 
 		{
-			"name": "Bip01 L Finger1",
+			"name": "Bone02",
 			"parent": 28
 		}, 
 		{
-			"name": "Bip01 R Arm",
-			"parent": 12
+			"name": "Bone03",
+			"parent": 29
 		}, 
 		{
-			"name": "Bip01 R Arm1",
-			"parent": 30
+			"name": "Dummy05",
+			"parent": 27
 		}, 
 		{
-			"name": "Bip01 R Arm2",
+			"name": "Bone09",
 			"parent": 31
 		}, 
 		{
+			"name": "Dummy03",
+			"parent": 27
+		}, 
+		{
+			"name": "Dummy09",
+			"parent": 27
+		}, 
+		{
+			"name": "Dummy10",
+			"parent": 27
+		}, 
+		{
+			"name": "Bone13",
+			"parent": 35
+		}, 
+		{
+			"name": "Bip01 L Arm",
+			"parent": 26
+		}, 
+		{
+			"name": "Bip01 L Arm1",
+			"parent": 37
+		}, 
+		{
+			"name": "Bip01 L Arm2",
+			"parent": 38
+		}, 
+		{
+			"name": "Bip01 L Hand",
+			"parent": 39
+		}, 
+		{
+			"name": "Bip01 L Finger0",
+			"parent": 40
+		}, 
+		{
+			"name": "Bip01 L Finger01",
+			"parent": 41
+		}, 
+		{
+			"name": "Bip01 L Finger02",
+			"parent": 42
+		}, 
+		{
+			"name": "Bip01 L Finger1",
+			"parent": 40
+		}, 
+		{
+			"name": "Bip01 L Finger11",
+			"parent": 44
+		}, 
+		{
+			"name": "Bip01 L Finger12",
+			"parent": 45
+		}, 
+		{
+			"name": "Bip01 R Arm",
+			"parent": 26
+		}, 
+		{
+			"name": "Bip01 R Arm1",
+			"parent": 47
+		}, 
+		{
+			"name": "Bip01 R Arm2",
+			"parent": 48
+		}, 
+		{
 			"name": "Bip01 R Hand",
-			"parent": 32
+			"parent": 49
 		}, 
 		{
 			"name": "Bip01 R Finger0",
-			"parent": 33
+			"parent": 50
 		}, 
 		{
 			"name": "Bip01 R Finger01",
-			"parent": 34
+			"parent": 51
 		}, 
 		{
 			"name": "Bip01 R Finger02",
-			"parent": 35
+			"parent": 52
+		}, 
+		{
+			"name": "Bip01 R Finger1",
+			"parent": 50
+		}, 
+		{
+			"name": "Bip01 R Finger11",
+			"parent": 54
+		}, 
+		{
+			"name": "Bip01 R Finger12",
+			"parent": 55
 		}
 	],
 	"skins": 1,
@@ -722,9 +807,45 @@
 	"textures": [
 		{
 			"flags": 0,
-			"height": 256,
-			"name": "assassin.bmp",
-			"width": 256
+			"height": 237,
+			"name": "8.BMP",
+			"width": 312
+		}, 
+		{
+			"flags": 0,
+			"height": 308,
+			"name": "5.BMP",
+			"width": 364
+		}, 
+		{
+			"flags": 0,
+			"height": 106,
+			"name": "1.BMP",
+			"width": 132
+		}, 
+		{
+			"flags": 0,
+			"height": 356,
+			"name": "3.BMP",
+			"width": 472
+		}, 
+		{
+			"flags": 0,
+			"height": 143,
+			"name": "7.BMP",
+			"width": 196
+		}, 
+		{
+			"flags": 0,
+			"height": 89,
+			"name": "6.BMP",
+			"width": 120
+		}, 
+		{
+			"flags": 0,
+			"height": 112,
+			"name": "4.BMP",
+			"width": 140
 		}
 	],
 	"version": 10

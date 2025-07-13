@@ -1,0 +1,143 @@
+Imperial assassin models for Half-Life [28 aug 1999]
+
+by: Agent_Orange
+
+Homepage: *
+
+E-mail: agentorange@freemail.nl
+
+programs used: Milkshape 3D, microsoft paint, Photofinish 4
+
+Time: *
+____________________________________________________________________________________________
+Culexus assassin:
+
+The Culexus assassin is the most unusual of all the assassin temples, 
+This assassin is a living nightmare, born with no life essence, no soul. 
+This makes him an perfect assassin, specialised in killing those who are blessed with
+psychic powers, Draining their life and reducing their boddy in a rotting carcass. 
+____________________________________________________________________________________________
+Technical stuff: culexus assassin
+
+Materials: 1, culexus2
+
+Triangles: 690
+
+Frames: 1751
+
+Vertices: 331
+
+Normals: 391
+
+Tris: 690
+
+Strips: 176
+
+Bones: 40
+
+Animations: standard valve animations
+____________________________________________________________________________________________
+Vindicare assassin:
+
+The Vindicare is a marksman, able to hit a coin from more than 2 kilometres. His stealth 
+suit, made from modified synskin [which all assassins have] makes him almost invisible from the 
+naked eye. 
+____________________________________________________________________________________________
+Technical stuff: vindicare assassin
+
+Materials: 1, vindicare2
+
+Triangles: 552
+
+Frames: 1751
+
+Vertices: 269
+
+Normals: 302
+
+Tris: 552
+
+Strips: 101
+
+Bones: 40
+
+Animations: standard valve animations
+
+____________________________________________________________________________________________
+Callidus assassin:
+
+The Callidus assassins are always female, and have the unique ability to "Morph" 
+[with help of a drug called Polymorphine] into a different shape. But it is not possible
+for the assassin to carry pouches, bags or other things becouse this would restrict her 
+morphing capabilities.
+
+____________________________________________________________________________________________
+Technical stuff: callidus assassin
+
+Materials: 1, callidus2
+
+Triangles: 886
+
+Frames: 1751
+
+Vertices: 437
+
+Normals: 448
+
+Tris: 886
+
+Strips: 101
+
+Bones: 35
+
+Animations: standard valve animations
+
+[I Know the callidus looks like a boring model, but that is because the figure itself isn't 
+interesting, its only improved by the weapons, which are very colourful. But i couldn't
+include these in the model. So the callidus is the least interesting model, but i had to 
+include it to get the all the assassin temples in HL]
+
+____________________________________________________________________________________________
+Eversor assassin:
+
+This assassin is bred for carnage and slaughter, using his diverse weaponry he 
+rips [sometimes literarelly] the heart out of an enemy force. No target is too difficult, 
+tanks and bunkers can be blown to molten slag with melta-bombs, massed infantry are 
+brutally butchured by ferocious drug-fueled assaults and enemy commanders die slowly
+and painfully at the hand of his Neuro-Gauntlet.
+
+____________________________________________________________________________________________
+Technical stuff: eversor assassin
+
+Materials: 1, eversor2
+
+triangles 806
+
+Frames: 1751
+
+Vertices: 378
+
+Normals: 431
+
+Tris: 886
+
+Strips: 162
+
+Bones: 40
+
+Animations: standard valve animations
+____________________________________________________________________________________________
+
+All models have a .BMP and a .MDL file included.
+
+The .mdl file is the model you will see during play.  
+The .bmp file is necessary for the model to be selectable via the launcher interface.  
+For a player model to be visible to all clients playing, it must be installed on
+the server for it to propogate to all playing clients.
+
+Thanks to:
+
+Valve Software, for Half-Life the best 3D shooter there is !
+Scarecrow from Cold Fusion, The tutorials are great, without them I was going mad
+Michiel Haverman, for forcimg me to make more warhammer 40.000 models
+The Phineas bot, for letting me shoot my own creations

@@ -1,17 +1,17 @@
 {
 	"attachments": [
 		{
-			"bone": 33,
+			"bone": 24,
 			"name": "",
 			"type": 0
 		}, 
 		{
-			"bone": 33,
+			"bone": 24,
 			"name": "",
 			"type": 0
 		}, 
 		{
-			"bone": 33,
+			"bone": 24,
 			"name": "",
 			"type": 0
 		}
@@ -20,15 +20,20 @@
 		{
 			"models": [
 				{
-					"name": "../dmatch/lowcount/assassin/assassin",
-					"polys": 958,
-					"verts": 489
+					"name": "../dmatch/scientist/DM_Scientist_Biped1",
+					"polys": 380,
+					"verts": 203
+				}, 
+				{
+					"name": "../dmatch/scientist/DM_ScienceBiped1",
+					"polys": 710,
+					"verts": 369
 				}
 			],
 			"name": "body"
 		}
 	],
-	"colorable": false,
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 8,
@@ -63,7 +68,7 @@
 			"type": 8
 		}
 	],
-	"date": 1098055320,
+	"date": 1098058560,
 	"events": [
 		{
 			"event": 2001,
@@ -172,12 +177,12 @@
 		}
 	],
 	"id": 1414743113,
-	"md5": "d0551c7255fefc9c1fcfecce3bd27bf7",
+	"md5": "186b54db024cc95c91d74bb5e13365ec",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
-	"name": "valve/models/player/assassin/assassin.mdl",
+	"name": "player/Scientist/Scientist.mdl",
 	"preview": false,
-	"readme": false,
+	"readme": true,
 	"seq_groups": "1",
 	"sequences": [
 		{
@@ -566,7 +571,7 @@
 			"name": "deadtable"
 		}
 	],
-	"size": 331319,
+	"size": 329592,
 	"skeleton": [
 		{
 			"name": "Bip01",
@@ -625,68 +630,32 @@
 			"parent": 12
 		}, 
 		{
-			"name": "Dummy08",
-			"parent": 13
-		}, 
-		{
-			"name": "Bone02",
-			"parent": 14
-		}, 
-		{
-			"name": "Bone03",
-			"parent": 15
-		}, 
-		{
-			"name": "Dummy05",
-			"parent": 13
-		}, 
-		{
-			"name": "Bone09",
-			"parent": 17
-		}, 
-		{
-			"name": "Dummy04",
-			"parent": 13
-		}, 
-		{
-			"name": "Bone05",
-			"parent": 19
-		}, 
-		{
-			"name": "Dummy03",
-			"parent": 13
-		}, 
-		{
-			"name": "Bone07",
-			"parent": 21
-		}, 
-		{
-			"name": "Dummy09",
-			"parent": 13
-		}, 
-		{
-			"name": "Dummy10",
-			"parent": 13
-		}, 
-		{
 			"name": "Bip01 L Arm",
 			"parent": 12
 		}, 
 		{
 			"name": "Bip01 L Arm1",
-			"parent": 25
+			"parent": 14
 		}, 
 		{
 			"name": "Bip01 L Arm2",
-			"parent": 26
+			"parent": 15
 		}, 
 		{
 			"name": "Bip01 L Hand",
-			"parent": 27
+			"parent": 16
 		}, 
 		{
 			"name": "Bip01 L Finger1",
-			"parent": 28
+			"parent": 17
+		}, 
+		{
+			"name": "Bip01 L Finger11",
+			"parent": 18
+		}, 
+		{
+			"name": "Bip01 L Finger12",
+			"parent": 19
 		}, 
 		{
 			"name": "Bip01 R Arm",
@@ -694,27 +663,27 @@
 		}, 
 		{
 			"name": "Bip01 R Arm1",
-			"parent": 30
+			"parent": 21
 		}, 
 		{
 			"name": "Bip01 R Arm2",
-			"parent": 31
+			"parent": 22
 		}, 
 		{
 			"name": "Bip01 R Hand",
-			"parent": 32
+			"parent": 23
 		}, 
 		{
-			"name": "Bip01 R Finger0",
-			"parent": 33
+			"name": "Bip01 R Finger1",
+			"parent": 24
 		}, 
 		{
-			"name": "Bip01 R Finger01",
-			"parent": 34
+			"name": "Bip01 R Finger11",
+			"parent": 25
 		}, 
 		{
-			"name": "Bip01 R Finger02",
-			"parent": 35
+			"name": "Bip01 R Finger12",
+			"parent": 26
 		}
 	],
 	"skins": 1,
@@ -723,8 +692,14 @@
 		{
 			"flags": 0,
 			"height": 256,
-			"name": "assassin.bmp",
+			"name": "DM_Base.bmp",
 			"width": 256
+		}, 
+		{
+			"flags": 0,
+			"height": 128,
+			"name": "DM_Face.bmp",
+			"width": 128
 		}
 	],
 	"version": 10

@@ -1,0 +1,23 @@
+Grim Reaper Skin
+
+This is a Variation of the fabled Grim Reaper. 
+
+This is one of many skins for Half Life I designed,
+GrimReaper is based on the Punisher Model by Brian Collins.
+
+
+Place Grimreaper.mdl and  Grimreaper.bmp & the notepad file in a new folder called GrimR in your SIERRA\Half-life\valve\models\player folder.
+
+Other skins Not Released yet by Me:
+Aliendude
+PC Punisher (me) :-)
+Duke Nukem                    
+Ghost
+Guyverzoid
+Whole series of Star Trek Skins.
+
+Feel free to contact me at Whiplash@netzero.net
+or ICQ 9925070
+and please distribute this file.
+
+Edward E. White   AKA  PC Punisher

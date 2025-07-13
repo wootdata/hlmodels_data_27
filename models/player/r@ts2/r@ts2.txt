@@ -1,0 +1,35 @@
+<-- Theis model was created by Ixnay --  Ixnay@giga4u.de --- www.matze.privat.ms -->
+
+
+Game:		Half-Life Multiplayer
+Name: 		R@TS2 CLAN MODEL
+Author:		Matthias 'IXNAY' Wilke
+E-Mail:		Ixnay@giga4u.de
+Homepage:	http://www.matze.privat.ms
+ClanHomepage:	http://www.i.e.fzone.here.de
+Date:		20.10.1999
+
+
+about it:
+---------
+This is the 2nd RAT for the R@TS CLAN, [R@TS]M.I.B. sayed that it r@t is grey, so I made a grey one.
+
+
+Installation:
+-------------
+Just unzip this zip file into your Half-Life\valve\models\player\r@ts2 directory and run the game.
+
+
+Copyright:
+----------
+You can burn this files on CD or copy them how much as you like to. But you have to include this
+textfile and the www.matze.privat.ms URL.
+
+
+MAIL ME & VISIT MY HOMEPAGE !!!
+
+
+| \  / |  |  /\  \   /
+|  \/  |\ | |  |  \_/
+|  /\  | \| |--|   |
+| /  \ |  | |  |   |
