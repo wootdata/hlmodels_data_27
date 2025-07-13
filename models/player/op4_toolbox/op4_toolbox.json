@@ -1,0 +1,62 @@
+{
+	"attachments": [],
+	"bodies": [
+		{
+			"models": [
+				{
+					"name": "toolbox_reference",
+					"polys": 54,
+					"verts": 32
+				}
+			],
+			"name": "studio"
+		}
+	],
+	"colorable": false,
+	"controllers": [],
+	"date": 1599808270,
+	"events": [],
+	"id": 1414743113,
+	"md5": "deab525d6167545089d83ccd2127e290",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
+	"name": "tool_box.mdl",
+	"preview": true,
+	"readme": false,
+	"seq_groups": "1",
+	"sequences": [
+		{
+			"fps": 30.000000,
+			"frames": 2,
+			"name": "idle"
+		}
+	],
+	"size": 21716,
+	"skeleton": [
+		{
+			"name": "Bone01",
+			"parent": -1
+		}, 
+		{
+			"name": "Bone02",
+			"parent": 0
+		}
+	],
+	"skins": 1,
+	"t_model": false,
+	"textures": [
+		{
+			"flags": 0,
+			"height": 32,
+			"name": "GENERIC46.bmp",
+			"width": 32
+		}, 
+		{
+			"flags": 0,
+			"height": 128,
+			"name": "GENERIC028.bmp",
+			"width": 128
+		}
+	],
+	"version": 10
+}
