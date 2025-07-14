@@ -175,6 +175,7 @@
 	"md5": "dc3cb5bda97980a0f4582f173746d921",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "./jack/jack.mdl",
 	"preview": true,
 	"readme": false,

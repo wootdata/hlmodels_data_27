@@ -175,6 +175,7 @@
 	"md5": "d0551c7255fefc9c1fcfecce3bd27bf7",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "valve/models/player/assassin/assassin.mdl",
 	"preview": false,
 	"readme": false,

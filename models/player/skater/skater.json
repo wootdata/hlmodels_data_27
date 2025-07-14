@@ -175,6 +175,7 @@
 	"md5": "f2cf45297f06ab833816f34e2b426c08",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "player/mdls/skater.mdl",
 	"preview": true,
 	"readme": false,
