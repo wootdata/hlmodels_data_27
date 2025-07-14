@@ -178,7 +178,7 @@
 	"modid": 2,
 	"name": "valve/models/player/assassin/assassin.mdl",
 	"preview": false,
-	"readme": false,
+	"readme": true,
 	"seq_groups": "1",
 	"sequences": [
 		{
