@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : thewastes_mena
+Source Model Hash : afe96d6267348ce0db3fef1d15d53679
+Source Model Date : 1267463191 (2010/03/01)
+
+Ported Model Name : thewastes_mena_v1sc
+Ported Model Hash : 16faad361fe8c036311a4c7425b6429d
+Ported Model Date : 1752492412 (2025/07/14)

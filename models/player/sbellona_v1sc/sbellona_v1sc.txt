@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : sbellona
+Source Model Hash : dda11ca114da9bac1c9ffcc6d1bdea8e
+Source Model Date : 1620441630 (2021/05/07)
+
+Ported Model Name : sbellona_v1sc
+Ported Model Hash : c4a5549303751a3368cc5078c0165d08
+Ported Model Date : 1752492242 (2025/07/14)

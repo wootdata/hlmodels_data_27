@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : ahya
+Source Model Hash : 3c30b36e1d3fc40dce0035f21b52b2ba
+Source Model Date : 1238898463 (2009/04/04)
+
+Ported Model Name : ahya_v1sc
+Ported Model Hash : e0beeacd414b2d47c3563d0e460c45f0
+Ported Model Date : 1752491345 (2025/07/14)

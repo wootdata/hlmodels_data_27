@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : crash_bandicoot2_v2
+Source Model Hash : b19ad20f1958585214f517c0a92e1a0a
+Source Model Date : 1695753337 (2023/09/26)
+
+Ported Model Name : crash_bandicoot2_v2sc
+Ported Model Hash : c8b6b5335e87895b01ee1fbf111961fa
+Ported Model Date : 1752491535 (2025/07/14)

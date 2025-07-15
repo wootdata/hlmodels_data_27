@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : scplayermultinoesscv
+Source Model Hash : 40c8b2e8f08f0ab5c3bcf9cca9ca876c
+Source Model Date : 1538167472 (2018/09/28)
+
+Ported Model Name : multinoesscv_v1sc
+Ported Model Hash : b000c481b52406d8090c7fc055944721
+Ported Model Date : 1752492249 (2025/07/14)

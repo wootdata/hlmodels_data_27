@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : touhou_rem_bikini2
+Source Model Hash : b56ba41297c83a5ccf848596ecbc80fa
+Source Model Date : 1523051284 (2018/04/06)
+
+Ported Model Name : 2hu_rem_bikini2_v1sc
+Ported Model Hash : 6dcee1403e85638717c2b910b1a6ad90
+Ported Model Date : 1752492444 (2025/07/14)

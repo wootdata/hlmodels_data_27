@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : ff7barret_v2
+Source Model Hash : d74b761d99491f7d9989f1c78e8cdcb1
+Source Model Date : 1583873845 (2020/03/10)
+
+Ported Model Name : ff7barret_v2sc
+Ported Model Hash : 8307669252f82c3e777472c216ec3b66
+Ported Model Date : 1752491649 (2025/07/14)

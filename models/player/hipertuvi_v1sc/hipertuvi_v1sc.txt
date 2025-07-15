@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : hipertuvi
+Source Model Hash : ae34436eb4254fd12bedfe4e26a1cdbf
+Source Model Date : 1294157564 (2011/01/04)
+
+Ported Model Name : hipertuvi_v1sc
+Ported Model Hash : 740633bd6c5208fd2d88c22117bf469f
+Ported Model Date : 1752491796 (2025/07/14)

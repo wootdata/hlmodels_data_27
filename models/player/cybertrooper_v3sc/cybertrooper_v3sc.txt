@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : cybertrooper_v3
+Source Model Hash : 2588d68a84f78d9f4b6b20242b9aefe3
+Source Model Date : 1523996071 (2018/04/17)
+
+Ported Model Name : cybertrooper_v3sc
+Ported Model Hash : eae41dd9e55e0ef33f6bdd47355bc85d
+Ported Model Date : 1752491571 (2025/07/14)

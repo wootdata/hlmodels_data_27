@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : aom_doctor
+Source Model Hash : a516b5ba230d75d563b7c8f336d170fc
+Source Model Date : 1329688780 (2012/02/19)
+
+Ported Model Name : aom_doctor_v1sc
+Ported Model Hash : ce22799cc20fba8d53f66cb120ec454e
+Ported Model Date : 1752491364 (2025/07/14)

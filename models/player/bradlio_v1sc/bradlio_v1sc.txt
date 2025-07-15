@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : bradlio
+Source Model Hash : 76827d9a52483110f2f1c263821566b3
+Source Model Date : 1658273964 (2022/07/19)
+
+Ported Model Name : bradlio_v1sc
+Ported Model Hash : d1f12babbe53d36b7fcaf4f32db83cfe
+Ported Model Date : 1752491446 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : chris_remake_hd
+Source Model Hash : adb2305a913a65512c89e54c82e7fc7b
+Source Model Date : 1422938234 (2015/02/02)
+
+Ported Model Name : chris_remake_hd_v1sc
+Ported Model Hash : fb09a16c2d024d51dda9dd9b48eb10b8
+Ported Model Date : 1752491474 (2025/07/14)

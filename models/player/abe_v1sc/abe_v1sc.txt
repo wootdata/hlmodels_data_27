@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : abe
+Source Model Hash : 2ce844d2f15e2791164614c68cd35c60
+Source Model Date : 1472477792 (2016/08/29)
+
+Ported Model Name : abe_v1sc
+Ported Model Hash : ab28a03938dfa9d0f1db624bab25215b
+Ported Model Date : 1752491328 (2025/07/14)

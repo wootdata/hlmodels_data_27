@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : ta_c_shotgun2_v2
+Source Model Hash : f71e98ea5ba4c68463d0f6d5ee14f6c6
+Source Model Date : 1661806812 (2022/08/29)
+
+Ported Model Name : ta_c_shotgun2_v2sc
+Ported Model Hash : 62045e6ccf83f98e2d0bb4fa9bc33395
+Ported Model Date : 1752492378 (2025/07/14)

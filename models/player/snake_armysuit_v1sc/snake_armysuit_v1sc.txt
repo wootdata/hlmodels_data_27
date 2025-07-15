@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : snake_armysuit
+Source Model Hash : 4a3fb68027b9fc8a54b6107fbf0bde6c
+Source Model Date : 1579696394 (2020/01/22)
+
+Ported Model Name : snake_armysuit_v1sc
+Ported Model Hash : bd5e21ec47d1e0eb916a70eebd2ad08d
+Ported Model Date : 1752492285 (2025/07/14)

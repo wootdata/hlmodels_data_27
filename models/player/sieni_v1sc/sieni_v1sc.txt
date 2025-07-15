@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : sieni
+Source Model Hash : 951faa3141d7ff07a2e25038146dc72a
+Source Model Date : 1456476949 (2016/02/26)
+
+Ported Model Name : sieni_v1sc
+Ported Model Hash : e881d1150a694a2f03d130059b9caeb5
+Ported Model Date : 1752492275 (2025/07/14)

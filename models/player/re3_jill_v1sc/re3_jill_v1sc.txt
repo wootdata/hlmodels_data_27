@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : re3_jill
+Source Model Hash : 3154c2a6e47d186b11483baffa40fd0b
+Source Model Date : 1236271626 (2009/03/05)
+
+Ported Model Name : re3_jill_v1sc
+Ported Model Hash : 6210e5f3830c01d93363f4c61b3cfe8a
+Ported Model Date : 1752492191 (2025/07/14)

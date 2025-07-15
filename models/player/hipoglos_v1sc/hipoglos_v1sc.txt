@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : hipoglos
+Source Model Hash : 086298c98a41709113b1abc52b960d8f
+Source Model Date : 1585083232 (2020/03/24)
+
+Ported Model Name : hipoglos_v1sc
+Ported Model Hash : a4a32d5d006505adf119df4aa72d6bea
+Ported Model Date : 1752491796 (2025/07/14)

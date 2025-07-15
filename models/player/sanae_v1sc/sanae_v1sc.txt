@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : sanae
+Source Model Hash : 8ccce97449aa765f0898b62b74f2994a
+Source Model Date : 1336757320 (2012/05/11)
+
+Ported Model Name : sanae_v1sc
+Ported Model Hash : 62c77acb97e2b0698e71da9efa3c7a4d
+Ported Model Date : 1752492234 (2025/07/14)

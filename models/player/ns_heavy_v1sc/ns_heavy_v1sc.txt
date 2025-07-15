@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : ns_heavy
+Source Model Hash : c36fa0426c8a6046d27422c51ac9b576
+Source Model Date : 1718655980 (2024/06/17)
+
+Ported Model Name : ns_heavy_v1sc
+Ported Model Hash : c755a8617d2bb06dcf2bdb0a6b348f22
+Ported Model Date : 1752492104 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : mew_new
+Source Model Hash : ff0cfaf80bc34e878e7f63a51c48bde7
+Source Model Date : 1549733673 (2019/02/09)
+
+Ported Model Name : mew_new_v1sc
+Ported Model Hash : 94d8f03c7bc20fe0cd9834046685bfc4
+Ported Model Date : 1752492006 (2025/07/14)

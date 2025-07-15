@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : ulala
+Source Model Hash : e31660e92bca6bfe2de5be2f0e6ab34f
+Source Model Date : 1532216793 (2018/07/21)
+
+Ported Model Name : ulala_v1sc
+Ported Model Hash : 8b03a7669118a452269f1cfc87fe405b
+Ported Model Date : 1752492475 (2025/07/14)

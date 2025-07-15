@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : da_withered_foxy
+Source Model Hash : b1daf4629b115e62436a882e9dbdec03
+Source Model Date : 1462798682 (2016/05/09)
+
+Ported Model Name : da_withered_foxy_v1sc
+Ported Model Hash : 5fd2e0055c8e902b6e48d48f75cbdf5d
+Ported Model Date : 1752491589 (2025/07/14)

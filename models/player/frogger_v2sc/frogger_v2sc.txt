@@ -1,0 +1,25 @@
+                         Frogger
+
+A skin colour change from the model obi06*
+Half-man, Half-Frog..............Half a life.
+
+INSTALLATION:  UNZIP INTO  halflife\valve\models\Frogger  folder
+
+        FYA    MARQUIS   for skins (m.haly@cwcom.net) 3/8/99
+
+        *model was created by Obi-Wan   --  obihb@yahoo.com
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : frogger_v2
+Source Model Hash : 3a435c0376d31e8af9f1923f0e9cd4ae
+Source Model Date : 1583874621 (2020/03/10)
+
+Ported Model Name : frogger_v2sc
+Ported Model Hash : a9cdde38fd8f78ebaf6ac23407960fc7
+Ported Model Date : 1752491662 (2025/07/14)

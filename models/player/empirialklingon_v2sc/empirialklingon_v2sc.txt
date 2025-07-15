@@ -1,0 +1,24 @@
+Star Trek Empirial Klingon Officer
+
+
+This is one of my many Star Trek skins
+
+Feel free to contact me at Whiplash@netzero.net or ICQ 9925070.
+and please distribute this file
+
+Edward E. White   AKA  PC Punisher
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : empirialklingon_v2
+Source Model Hash : 83f8e5bea0322b2dbae8ea5f4a17b8bf
+Source Model Date : 1583017141 (2020/02/29)
+
+Ported Model Name : empirialklingon_v2sc
+Ported Model Hash : f6588338022c801e86677a57c1a07419
+Ported Model Date : 1752491634 (2025/07/14)

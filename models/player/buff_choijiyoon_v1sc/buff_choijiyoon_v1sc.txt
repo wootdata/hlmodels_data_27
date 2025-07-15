@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : buff_choijiyoon
+Source Model Hash : 602b58a45bf30e4b6c2823e9cff04803
+Source Model Date : 1654719591 (2022/06/08)
+
+Ported Model Name : buff_choijiyoon_v1sc
+Ported Model Hash : 0ed320e29d4cd5074b4361df471294a5
+Ported Model Date : 1752491452 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : 31minutos_juan
+Source Model Hash : 7da351f6e94826536853f72002ad2e46
+Source Model Date : 1599107908 (2020/09/02)
+
+Ported Model Name : 31minutos_juan_v1sc
+Ported Model Hash : f9d8a7006b41c5a95cba93d0b2542241
+Ported Model Date : 1752491321 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : nindoqueen
+Source Model Hash : 29969559791858f0722dd78cb2863fbd
+Source Model Date : 1749143985 (2025/06/05)
+
+Ported Model Name : nindoqueen_v1sc
+Ported Model Hash : fdd2247c2112b1f45c5190eb7f4ee600
+Ported Model Date : 1752492096 (2025/07/14)

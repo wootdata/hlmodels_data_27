@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : rouge_dark_s5
+Source Model Hash : 261a1c68254f83408576211d6fc91c0f
+Source Model Date : 1455587630 (2016/02/15)
+
+Ported Model Name : rouge_dark_s5_v1sc
+Ported Model Hash : 6a2f3b05c7527ab719b3bbe6863de04d
+Ported Model Date : 1752492221 (2025/07/14)

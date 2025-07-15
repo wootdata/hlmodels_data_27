@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : mouse
+Source Model Hash : 4be588961ec0ca47de5d932b7667dd3a
+Source Model Date : 1465827724 (2016/06/13)
+
+Ported Model Name : mouse_v1sc
+Ported Model Hash : ef0cba5da47190d30c1de266130fac78
+Ported Model Date : 1752492043 (2025/07/14)

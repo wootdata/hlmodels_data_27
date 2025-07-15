@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : res_major_lie_rick_v2
+Source Model Hash : afc71b62f1b15740c798ec3e77d54b0f
+Source Model Date : 1523924347 (2018/04/16)
+
+Ported Model Name : res_maj_lie_rick_v2sc
+Ported Model Hash : 7a412680ece7cf7be713bb67edc60625
+Ported Model Date : 1752492200 (2025/07/14)

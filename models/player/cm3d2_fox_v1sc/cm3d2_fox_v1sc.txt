@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : cm3d2_fox
+Source Model Hash : 61cd22d6d65f0beb2264d427acc18ab4
+Source Model Date : 1628286027 (2021/08/06)
+
+Ported Model Name : cm3d2_fox_v1sc
+Ported Model Hash : d795c8058317cabccbd47163363c6e2f
+Ported Model Date : 1752491488 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : aasupport_bf2
+Source Model Hash : 608316cf55b74dbb0e1e92b0a2f08be9
+Source Model Date : 1230547293 (2008/12/29)
+
+Ported Model Name : aasupport_bf2_v1sc
+Ported Model Hash : b46c116407b86f9ce0351d745bd5a75a
+Ported Model Date : 1752491328 (2025/07/14)

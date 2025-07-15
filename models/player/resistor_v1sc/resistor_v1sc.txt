@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : resistor
+Source Model Hash : 74bb92b1ad51de0730be7d0e035b63e9
+Source Model Date : 1491737851 (2017/04/09)
+
+Ported Model Name : resistor_v1sc
+Ported Model Hash : b57965381b9a0c0586103243b2c0b9c5
+Ported Model Date : 1752492200 (2025/07/14)

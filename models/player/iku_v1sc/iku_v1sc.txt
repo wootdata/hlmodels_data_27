@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : iku
+Source Model Hash : 3956186515ec22a7d60fc878bf2f949b
+Source Model Date : 1458602657 (2016/03/21)
+
+Ported Model Name : iku_v1sc
+Ported Model Hash : c9bfb352751ce7686c0abc0fe933f795
+Ported Model Date : 1752491843 (2025/07/14)

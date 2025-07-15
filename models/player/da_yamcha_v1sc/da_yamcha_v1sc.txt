@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : da_yamcha
+Source Model Hash : b2e6af04de2bd50775e300a04e4ac13d
+Source Model Date : 1461124406 (2016/04/19)
+
+Ported Model Name : da_yamcha_v1sc
+Ported Model Hash : f7999720b1e6198bed87968b8ce80b62
+Ported Model Date : 1752491589 (2025/07/14)

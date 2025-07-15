@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : zoroark
+Source Model Hash : 2c728f7de804fbf4dd2a94f59526cdf8
+Source Model Date : 1504196056 (2017/08/31)
+
+Ported Model Name : zoroark_v1sc
+Ported Model Hash : eb5b3657244d8430b9b792025d0c0b0b
+Ported Model Date : 1752492534 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : cod_makarov1
+Source Model Hash : 05abb325a4e2b11f23eeaf7a138f5542
+Source Model Date : 1477870616 (2016/10/30)
+
+Ported Model Name : cod_makarov1_v1sc
+Ported Model Hash : b0e8b73f38c74bb8270f5bd6f130b012
+Ported Model Date : 1752491496 (2025/07/14)

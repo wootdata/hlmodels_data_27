@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : mlc_allied_soldier
+Source Model Hash : 9b859f8b0f13e0107166d9a87901c13a
+Source Model Date : 1266505352 (2010/02/18)
+
+Ported Model Name : mlc_allied_gi_v1sc
+Ported Model Hash : f6e1a2521b0aa21f79630d7de3277887
+Ported Model Date : 1752492034 (2025/07/14)

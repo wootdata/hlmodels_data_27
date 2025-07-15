@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : argus
+Source Model Hash : 9a153417672726af220b5622401c7574
+Source Model Date : 1264598614 (2010/01/27)
+
+Ported Model Name : argus_v1sc
+Ported Model Hash : c2576889ba9238ffd2f221eb84fea741
+Ported Model Date : 1752491366 (2025/07/14)

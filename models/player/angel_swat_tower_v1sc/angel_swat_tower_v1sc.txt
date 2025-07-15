@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : angel_swat_tower
+Source Model Hash : 7102b3bc97ad2e9a243aee828a0bc09a
+Source Model Date : 1541994191 (2018/11/11)
+
+Ported Model Name : angel_swat_tower_v1sc
+Ported Model Hash : 4a402ae150edd4540bcb8cf20e43e154
+Ported Model Date : 1752491363 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : ss_droid_v2
+Source Model Hash : 15b6e8625153a16164cfbc83948737c4
+Source Model Date : 1583737558 (2020/03/09)
+
+Ported Model Name : ss_droid_v2sc
+Ported Model Hash : f0b9725ee829c6661a223273f5ee7f3b
+Ported Model Date : 1752492319 (2025/07/14)

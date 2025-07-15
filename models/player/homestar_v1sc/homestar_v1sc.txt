@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : homestar
+Source Model Hash : c8d43d698f4e413637005249f31fae11
+Source Model Date : 1429447594 (2015/04/19)
+
+Ported Model Name : homestar_v1sc
+Ported Model Hash : 472cf4e1d396fddb25f0723e008a8690
+Ported Model Date : 1752491827 (2025/07/14)

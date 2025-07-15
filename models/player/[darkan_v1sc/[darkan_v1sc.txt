@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : [darkan
+Source Model Hash : e053ac2cefb003bb3e53bc2e2282f198
+Source Model Date : 1482212888 (2016/12/19)
+
+Ported Model Name : [darkan_v1sc
+Ported Model Hash : 299eb0a33a5e156d7f346d27643421e1
+Ported Model Date : 1752492538 (2025/07/14)

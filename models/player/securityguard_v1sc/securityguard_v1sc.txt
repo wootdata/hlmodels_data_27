@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : securityguard
+Source Model Hash : 32defc20eb782c2bd0f027524b9cefb0
+Source Model Date : 1269848030 (2010/03/29)
+
+Ported Model Name : securityguard_v1sc
+Ported Model Hash : cf33096dd0cfcd875abf9fb7cad63c1b
+Ported Model Date : 1752492257 (2025/07/14)

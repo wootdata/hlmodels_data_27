@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : s.w.a.t.police
+Source Model Hash : 897f4acf68aadab62cf965a26dd8e445
+Source Model Date : 1591122758 (2020/06/02)
+
+Ported Model Name : s.w.a.t.police_v1sc
+Ported Model Hash : ab20d4429e9210fe236f09001e8a27a6
+Ported Model Date : 1752492230 (2025/07/14)

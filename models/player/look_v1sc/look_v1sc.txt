@@ -1,0 +1,25 @@
+downloaded from http://i.am/half-life -- THE HalfLife resource
+
+Put this file in HalfLife\Valve\maps
+It will be loaded automatically if you join a server running it
+Or, use 'map mapname' in the console to play locally
+
+Did you make this map?  If so, come to http://i.am/half-life 
+and let me know, so I can give you credit!
+
+
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : look
+Source Model Hash : d97bc4f218c5335b804e9489c23f2ae9
+Source Model Date : 1590883981 (2020/05/30)
+
+Ported Model Name : look_v1sc
+Ported Model Hash : 434a557380e7e206f4524ac8c5884f7d
+Ported Model Date : 1752491961 (2025/07/14)

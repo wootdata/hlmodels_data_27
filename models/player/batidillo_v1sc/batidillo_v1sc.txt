@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : batidillo
+Source Model Hash : 9fd68aa76d0ae2667e10a59724c2c2ea
+Source Model Date : 1536527740 (2018/09/09)
+
+Ported Model Name : batidillo_v1sc
+Ported Model Hash : b5097dd59369c8372aa654da7e0f7b23
+Ported Model Date : 1752491405 (2025/07/14)

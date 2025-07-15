@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : komajiro
+Source Model Hash : 69440adb5bd424c8f564b7f60e60c1b7
+Source Model Date : 1497167267 (2017/06/11)
+
+Ported Model Name : komajiro_v1sc
+Ported Model Hash : 6fd0d36879bcfc4c1be8edd599bddced
+Ported Model Date : 1752491908 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : conforce1
+Source Model Hash : 834b4bf3321e1b75166545f3b8c6e751
+Source Model Date : 1237217536 (2009/03/16)
+
+Ported Model Name : conforce1_v1sc
+Ported Model Hash : f04712e93fa03bb4f121b0df1c9ed629
+Ported Model Date : 1752491521 (2025/07/14)

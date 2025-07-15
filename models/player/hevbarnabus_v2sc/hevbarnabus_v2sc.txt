@@ -1,0 +1,22 @@
+CREDITS TO
+
+
+Ambient.Impact
+Meatball
+???
+
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : hevbarnabus_v2
+Source Model Hash : 66b1be7c704798bbd4063154078cbac6
+Source Model Date : 1583891542 (2020/03/10)
+
+Ported Model Name : hevbarnabus_v2sc
+Ported Model Hash : 13eaaf2a7a149d48e6c538851000f438
+Ported Model Date : 1752491784 (2025/07/14)

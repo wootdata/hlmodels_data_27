@@ -1,0 +1,16 @@
+Model: milcho
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : yukari2
+Source Model Hash : 99409a81b159af3c92d301d77f9c817f
+Source Model Date : 1319755080 (2011/10/27)
+
+Ported Model Name : yukari2_v1sc
+Ported Model Hash : ca2472e607bf60de7d9c05397b2af2c4
+Ported Model Date : 1752492525 (2025/07/14)

@@ -1,0 +1,19 @@
+knives by azn and jon heats trigun mod team
+
+converted by The Killer Snail 
+Problems? email me at thekillersnail@gmail.com
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : knives
+Source Model Hash : bced3ef40fc9992e699ecdb92b35d6ea
+Source Model Date : 1429478641 (2015/04/19)
+
+Ported Model Name : knives_v1sc
+Ported Model Hash : dccf7c9814b1f6f4bd04b8ffdde811db
+Ported Model Date : 1752491904 (2025/07/14)

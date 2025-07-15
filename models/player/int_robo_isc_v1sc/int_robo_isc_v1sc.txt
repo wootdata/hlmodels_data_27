@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : int_robo_isc
+Source Model Hash : dfa4912bb44a830b128ff2f86d46fbe7
+Source Model Date : 1680817351 (2023/04/06)
+
+Ported Model Name : int_robo_isc_v1sc
+Ported Model Hash : 24eae41913c8b1c1fb651e9142864c79
+Ported Model Date : 1752491845 (2025/07/14)

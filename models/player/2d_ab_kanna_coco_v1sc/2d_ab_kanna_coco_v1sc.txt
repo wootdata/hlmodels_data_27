@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : 2d_ab_kanna_coco
+Source Model Hash : 92eee69b0b500b97ebcccef2570c8862
+Source Model Date : 1542532194 (2018/11/18)
+
+Ported Model Name : 2d_ab_kanna_coco_v1sc
+Ported Model Hash : 9f4240899c0625bda2a02f1f8cb03a0e
+Ported Model Date : 1752491304 (2025/07/14)

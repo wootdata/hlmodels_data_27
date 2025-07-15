@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : paradox
+Source Model Hash : cd540340999da5156dc80c962080e3da
+Source Model Date : 1744212413 (2025/04/09)
+
+Ported Model Name : paradox_v1sc
+Ported Model Hash : df7c3d62f814173cef045233b393c769
+Ported Model Date : 1752492143 (2025/07/14)

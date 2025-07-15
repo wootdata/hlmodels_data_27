@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : infested_v2
+Source Model Hash : 11c44e672ec8a60c39acc341a43af390
+Source Model Date : 1583893955 (2020/03/10)
+
+Ported Model Name : infested_v2sc
+Ported Model Hash : 6d0c26bc60bc3f1faf0f5f8647839763
+Ported Model Date : 1752491844 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : kmd_kanna_ld_vo
+Source Model Hash : c86489efe758e6ff5a97e16026744f4d
+Source Model Date : 1703612417 (2023/12/26)
+
+Ported Model Name : kmd_kanna_ld_vo_v1sc
+Ported Model Hash : a40bd881402da5a656579d0288259bca
+Ported Model Date : 1752491897 (2025/07/14)

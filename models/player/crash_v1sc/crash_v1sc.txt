@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : crash
+Source Model Hash : fd678cdadec3ad605637462353bddfad
+Source Model Date : 1426888256 (2015/03/20)
+
+Ported Model Name : crash_v1sc
+Ported Model Hash : c71d0daa3357b7c5d89b1b1ee00201a8
+Ported Model Date : 1752491534 (2025/07/14)

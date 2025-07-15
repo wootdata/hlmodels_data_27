@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : squidguard
+Source Model Hash : 635c3978b0f2673f67bd8e5bbee6d05d
+Source Model Date : 1735972608 (2025/01/03)
+
+Ported Model Name : squidguard_v1sc
+Ported Model Hash : f5c4b33df167d0e49ee07068f3519320
+Ported Model Date : 1752492317 (2025/07/14)

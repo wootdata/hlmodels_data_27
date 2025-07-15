@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : lt_thyakumo
+Source Model Hash : 727f0f95345f51c7697288bf8cf5257f
+Source Model Date : 1541883057 (2018/11/10)
+
+Ported Model Name : lt_thyakumo_v1sc
+Ported Model Hash : af814374de78501171f1c011ccb28b9e
+Ported Model Date : 1752491971 (2025/07/14)

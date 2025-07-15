@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : bruce_lee
+Source Model Hash : 9783e4b773cd171edf66a1deb77b2554
+Source Model Date : 1268071976 (2010/03/08)
+
+Ported Model Name : bruce_lee_v1sc
+Ported Model Hash : ffa4f9623968f9c4c401d47ff6b0605c
+Ported Model Date : 1752491449 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : skeleton_barney
+Source Model Hash : 26b56414776fbad2f71aab4638f49d3b
+Source Model Date : 1293115816 (2010/12/23)
+
+Ported Model Name : skeleton_barney_v1sc
+Ported Model Hash : ce8364771a35913e144330641646c3ff
+Ported Model Date : 1752492279 (2025/07/14)

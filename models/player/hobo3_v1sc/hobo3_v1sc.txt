@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : hobo3
+Source Model Hash : acfc9ae0246496b5ca13d568eade5303
+Source Model Date : 1429439008 (2015/04/19)
+
+Ported Model Name : hobo3_v1sc
+Ported Model Hash : df1027bf50cfc0261d4adc5813481e84
+Ported Model Date : 1752491810 (2025/07/14)

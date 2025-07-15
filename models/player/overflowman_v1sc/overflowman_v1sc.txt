@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : overflowman
+Source Model Hash : 04029504b42e772e38960924c3073d88
+Source Model Date : 1230582760 (2008/12/29)
+
+Ported Model Name : overflowman_v1sc
+Ported Model Hash : 1ec6748a78cb8a60d324d2add26f7f13
+Ported Model Date : 1752492136 (2025/07/14)

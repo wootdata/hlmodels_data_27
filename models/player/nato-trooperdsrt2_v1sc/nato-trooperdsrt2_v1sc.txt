@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : nato-trooperdesert2
+Source Model Hash : cffae72850ffd073374395b4daecd970
+Source Model Date : 1265568566 (2010/02/07)
+
+Ported Model Name : nato-trooperdsrt2_v1sc
+Ported Model Hash : a4048898b5a58303958567e11e39b14f
+Ported Model Date : 1752492074 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : ffchocobo
+Source Model Hash : 6630a429184fd190940ef5073963522f
+Source Model Date : 1611865797 (2021/01/28)
+
+Ported Model Name : ffchocobo_v1sc
+Ported Model Hash : d45248df93d79713bba3b36efbabb60f
+Ported Model Date : 1752491650 (2025/07/14)

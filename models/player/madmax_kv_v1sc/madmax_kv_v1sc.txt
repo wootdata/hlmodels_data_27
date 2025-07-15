@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : madmax_kv
+Source Model Hash : 7e1d1e1c043fa53c6bfad0b58273095a
+Source Model Date : 1429542703 (2015/04/20)
+
+Ported Model Name : madmax_kv_v1sc
+Ported Model Hash : 9b731e507f8c212f9b34a2d7ad87cf46
+Ported Model Date : 1752491978 (2025/07/14)

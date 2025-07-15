@@ -1,0 +1,36 @@
+Dark Eldar (Warhammer40k) -  Half-Life character  -  readme.txt
+July 26,2001
+--------------------------------
+Character Stats:
+polys		999
+verts		580
+texture		256x256
+chrome		NO
+animation	Half-Life
+--------------------------------
+Character Info:
+This character is a soldier from the very popular game Warhammer40k he 
+is from an army know as Dark Eldar. Same concept as the genestealer
+only a different character. I hope you enjoy. 
+--------------------------------
+
+Matt Joesten
+(aka CYR4X)
+kodiak123@ameritech.net
+
+
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : deldar_v2
+Source Model Hash : 0dc3b92173cc25ba355a8c42384c5879
+Source Model Date : 1583006259 (2020/02/29)
+
+Ported Model Name : deldar_v2sc
+Ported Model Hash : a74b425c518885fdf17f8fe69706727a
+Ported Model Date : 1752491593 (2025/07/14)

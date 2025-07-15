@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : csneo_witcha2
+Source Model Hash : 6fde9411f7464b488656a1a2f8831cbb
+Source Model Date : 1625650830 (2021/07/07)
+
+Ported Model Name : csneo_witcha2_v1sc
+Ported Model Hash : 4bcf73f0755870efeb6056972dcede54
+Ported Model Date : 1752491552 (2025/07/14)

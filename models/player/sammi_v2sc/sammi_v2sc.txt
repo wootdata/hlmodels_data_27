@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : sammi_v2
+Source Model Hash : 95bca3a8e2e2e6862a99e19918a68cd8
+Source Model Date : 1583730922 (2020/03/08)
+
+Ported Model Name : sammi_v2sc
+Ported Model Hash : a5667d152d521e937f0dffca132d9636
+Ported Model Date : 1752492233 (2025/07/14)

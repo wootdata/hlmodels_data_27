@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : 2d_afterlife_dspace
+Source Model Hash : b941b9a1bdaae16e5158f34b313cf63e
+Source Model Date : 1542453438 (2018/11/17)
+
+Ported Model Name : 2d_alife_dspace_v1sc
+Ported Model Hash : 53c48777bab71819985921d107290073
+Ported Model Date : 1752491304 (2025/07/14)

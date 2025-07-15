@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : spike2_v2
+Source Model Hash : 476f26bfcdc4263d7d96691b95a15662
+Source Model Date : 1583740492 (2020/03/09)
+
+Ported Model Name : spike2_v2sc
+Ported Model Hash : f66c3d85a78cec743ea5918ab6914f44
+Ported Model Date : 1752492309 (2025/07/14)

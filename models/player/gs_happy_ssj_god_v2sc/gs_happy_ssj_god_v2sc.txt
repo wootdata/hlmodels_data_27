@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : gs_happy_ssj_god_v2
+Source Model Hash : d1313a55b94157d06b51d7a610f86aa5
+Source Model Date : 1524021774 (2018/04/17)
+
+Ported Model Name : gs_happy_ssj_god_v2sc
+Ported Model Hash : 44134863e7bf6d70b80243b733db5ac3
+Ported Model Date : 1752491748 (2025/07/14)

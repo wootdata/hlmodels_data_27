@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : youkai_konichiwa
+Source Model Hash : a52d00bd24b2d7b5e7491a1115d61e28
+Source Model Date : 1672733570 (2023/01/03)
+
+Ported Model Name : youkai_konichiwa_v1sc
+Ported Model Hash : 6f3c612124d3feeaf4d7d78c0aa09b59
+Ported Model Date : 1752492522 (2025/07/14)

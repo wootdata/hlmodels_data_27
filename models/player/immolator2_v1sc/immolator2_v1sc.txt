@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : immolator2
+Source Model Hash : 2a9845814144d0e9da981c4d00d5ed58
+Source Model Date : 1522013278 (2018/03/25)
+
+Ported Model Name : immolator2_v1sc
+Ported Model Hash : 939de1340f50148b8607e9b0656066b1
+Ported Model Date : 1752491844 (2025/07/14)

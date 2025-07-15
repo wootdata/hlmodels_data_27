@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : rvi_helmet
+Source Model Hash : b06cf8db07fb42bd5ecbb7ced6f10682
+Source Model Date : 1649646598 (2022/04/10)
+
+Ported Model Name : rvi_helmet_v1sc
+Ported Model Hash : 12f6a19cc8263555ba8901ebff69e3f6
+Ported Model Date : 1752492227 (2025/07/14)

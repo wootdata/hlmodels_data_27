@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : twokinds_laura
+Source Model Hash : f21a695c59ce3a1c5177bf1033167e4e
+Source Model Date : 1597221936 (2020/08/12)
+
+Ported Model Name : twokinds_laura_v1sc
+Ported Model Hash : a8011f3c210665e6cff7112872223c0e
+Ported Model Date : 1752492465 (2025/07/14)

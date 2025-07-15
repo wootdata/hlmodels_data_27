@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : zicke_v2
+Source Model Hash : 93375e25e3b488ea3849cc9bb43e3616
+Source Model Date : 1582898084 (2020/02/28)
+
+Ported Model Name : zicke_v2sc
+Ported Model Hash : aab63570a9ded10ab9a7a55e64c6d56a
+Ported Model Date : 1752492529 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : wanted_miner_v2
+Source Model Hash : f62261d3c2f3d462222cd582162e8777
+Source Model Date : 1528090946 (2018/06/03)
+
+Ported Model Name : wanted_miner_v2sc
+Ported Model Hash : be477547798f864f91c677df373a2db2
+Ported Model Date : 1752492502 (2025/07/14)

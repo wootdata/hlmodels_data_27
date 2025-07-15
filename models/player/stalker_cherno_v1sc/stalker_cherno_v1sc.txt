@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : stalker_cherno
+Source Model Hash : 66c2a9d536ce79f7d72d2d3aa98c5979
+Source Model Date : 1271583788 (2010/04/18)
+
+Ported Model Name : stalker_cherno_v1sc
+Ported Model Hash : 0890b9335e520a624cb7fbdbbb824bef
+Ported Model Date : 1752492326 (2025/07/14)

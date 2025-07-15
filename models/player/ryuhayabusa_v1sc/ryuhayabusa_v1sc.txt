@@ -1,0 +1,33 @@
+				:: CREDIT ::
+
+
+			Model: Team Ninja
+			Rip: Mariokart_64n
+			Anims: SC Team
+			Convert: Der Graue Fuchs
+			Compile: Der Graue Fuchs
+
+
+
+      	                  /////// //      //||  ||  //   //
+      	                 //   // //      // ||  || //   //
+   	                //___// //      //  ||  ||//   //
+   	               //      //      //___||  |//   //
+   	              //      //      //    ||  //   //
+		     //      //_____ //     || //   _
+
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : ryuhayabusa
+Source Model Hash : be9db5baa845124dabda2eccbce347c2
+Source Model Date : 1269529864 (2010/03/25)
+
+Ported Model Name : ryuhayabusa_v1sc
+Ported Model Hash : dfed3ca55a1dd5aa7ca631e0d8f97380
+Ported Model Date : 1752492230 (2025/07/14)

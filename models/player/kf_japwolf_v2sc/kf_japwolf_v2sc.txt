@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : kf_japwolf_v2
+Source Model Hash : d7b50299cc4c22bc226a4204b389a2b0
+Source Model Date : 1587987415 (2020/04/27)
+
+Ported Model Name : kf_japwolf_v2sc
+Ported Model Hash : a21227baff3c69025536f94c7af77edd
+Ported Model Date : 1752491885 (2025/07/14)

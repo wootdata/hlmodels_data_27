@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : fleashpound_v1
+Source Model Hash : 5d5b314eaba71a43ed1260a2c4163db1
+Source Model Date : 1445581686 (2015/10/22)
+
+Ported Model Name : fleashpound_v1sc
+Ported Model Hash : d60137133c7631d6c2ee88799471f7f2
+Ported Model Date : 1752491653 (2025/07/14)

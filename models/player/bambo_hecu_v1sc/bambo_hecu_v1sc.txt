@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : bambo_hecu
+Source Model Hash : cba706c7dcb885f3f2181d371d532b42
+Source Model Date : 1586571165 (2020/04/10)
+
+Ported Model Name : bambo_hecu_v1sc
+Ported Model Hash : 538ddf1025e57d67f383f72110b1f378
+Ported Model Date : 1752491399 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : vocaloid_rin
+Source Model Hash : dcc689d6a9b970eaad08354c85d61bde
+Source Model Date : 1231915602 (2009/01/13)
+
+Ported Model Name : vocaloid_rin_v1sc
+Ported Model Hash : 41cb0f0ea416e0b4da2452382f7742eb
+Ported Model Date : 1752492495 (2025/07/14)

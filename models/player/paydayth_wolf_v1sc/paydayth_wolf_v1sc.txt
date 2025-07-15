@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : paydayth_wolf
+Source Model Hash : 6661a202c1cc19b855884cb2cb743d58
+Source Model Date : 1484624873 (2017/01/16)
+
+Ported Model Name : paydayth_wolf_v1sc
+Ported Model Hash : c2db5eba30ee11af84d3938ccc572023
+Ported Model Date : 1752492148 (2025/07/14)

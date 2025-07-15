@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : livingdeadgirl-
+Source Model Hash : 11722f324a2f9157b3b40f0c1407f206
+Source Model Date : 1590883424 (2020/05/30)
+
+Ported Model Name : livingdeadgirl-_v1sc
+Ported Model Hash : da43f8093bb2bcda60cbc27460409e52
+Ported Model Date : 1752491954 (2025/07/14)
