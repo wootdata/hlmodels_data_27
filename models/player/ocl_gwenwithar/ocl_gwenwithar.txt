@@ -1,0 +1,13 @@
+#############################################
+#     Ordre des Corsaires de la Liberte     #
+#         http://www.corsaires.net          #
+#                                           #
+#             ocl_gwenwithar.mdl            #
+#                                           #
+#          skin by [OCL]-Cuchulainn         #
+#          cuchulainn@corsaires.net         #
+#############################################
+
+This skin is based upon the onna.mdl woman model.
+Its the second version of [OCL] Gwenwithar personnal skin.
+This was achieved on 28/06/99, have fun with it !

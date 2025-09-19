@@ -1,0 +1,10 @@
+                         DOAlom
+
+A Punisher skin change, DOA Lord of Malice
+Hope you like it! 
+   
+
+INSTALLATION:  UNZIP INTO  halflife\valve\models\player\DOAlom folder
+
+
+         FYA    MARQUIS   for  skins (m.haly@cwcom.net) 22/8/99

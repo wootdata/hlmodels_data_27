@@ -1,0 +1,23 @@
+        ----------AUSTINRAGE----------
+released 4/5/99 
+
+Model name: AUSTINrage
+
+Author: [R.A.G.E.]~AustiN
+
+Model homepage: http://www.geocities.com/timessquare/zone/6462
+
+Installation:Make a folder in Sierra\Half-life\valve\models\player\AUSTINrage 
+Copy all files contained in this Zip into it (AUSTINrage.mdl, AUSTINrage.bmp, AUSTINrage.txt)
+
+------------------------------------------------------------
+About the Author============================================
+Well here it is.. finally!!
+I got sick of waiting for someone to make a STONECOLD
+model, so here ya go.
+I spent lots of time that should have been spent on my collage portfolio or on
+my homework on the making of this skin. So please dont edit it or change the
+skin in any way. Destribute it freely.
+Form your bud AustiN.. drop me a line anytime at: manny@cgocable.net
+
+-AUSTIN
