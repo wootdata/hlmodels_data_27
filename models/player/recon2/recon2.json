@@ -1,17 +1,17 @@
 {
 	"attachments": [
 		{
-			"bone": 27,
+			"bone": 23,
 			"name": "",
 			"type": 0
 		}, 
 		{
-			"bone": 27,
+			"bone": 23,
 			"name": "",
 			"type": 0
 		}, 
 		{
-			"bone": 27,
+			"bone": 23,
 			"name": "",
 			"type": 0
 		}
@@ -20,15 +20,15 @@
 		{
 			"models": [
 				{
-					"name": "../dmatch/highcount/recon/recon_reference",
-					"polys": 604,
-					"verts": 318
+					"name": "DM_CMDR_reference",
+					"polys": 428,
+					"verts": 230
 				}
 			],
 			"name": "body"
 		}
 	],
-	"colorable": true,
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -63,7 +63,7 @@
 			"type": 8
 		}
 	],
-	"date": 1620288297,
+	"date": 1388828973,
 	"events": [
 		{
 			"event": 2001,
@@ -172,11 +172,11 @@
 		}
 	],
 	"id": 1414743113,
-	"md5": "29024120b3d40c3af008bd0efc460b88",
+	"md5": "91a8353d3d1ba2dedd438c78abef0140",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
 	"modid": 2,
-	"name": "valve/models/player/recon/recon.mdl",
+	"name": "C:\\sierra\\half-life\\gearbox\\models\\player\\DM_CMDR\\DM_CMDR.mdl",
 	"preview": true,
 	"readme": false,
 	"seq_groups": "1",
@@ -567,7 +567,7 @@
 			"name": "deadtable"
 		}
 	],
-	"size": 328960,
+	"size": 294344,
 	"skeleton": [
 		{
 			"name": "Bip01",
@@ -646,24 +646,8 @@
 			"parent": 17
 		}, 
 		{
-			"name": "Bip01 L Finger01",
-			"parent": 18
-		}, 
-		{
-			"name": "Bip01 L Finger02",
-			"parent": 19
-		}, 
-		{
 			"name": "Bip01 L Finger1",
 			"parent": 17
-		}, 
-		{
-			"name": "Bip01 L Finger11",
-			"parent": 21
-		}, 
-		{
-			"name": "Bip01 L Finger12",
-			"parent": 22
 		}, 
 		{
 			"name": "Bip01 R Arm",
@@ -671,39 +655,23 @@
 		}, 
 		{
 			"name": "Bip01 R Arm1",
-			"parent": 24
+			"parent": 20
 		}, 
 		{
 			"name": "Bip01 R Arm2",
-			"parent": 25
+			"parent": 21
 		}, 
 		{
 			"name": "Bip01 R Hand",
-			"parent": 26
+			"parent": 22
 		}, 
 		{
 			"name": "Bip01 R Finger0",
-			"parent": 27
-		}, 
-		{
-			"name": "Bip01 R Finger01",
-			"parent": 28
-		}, 
-		{
-			"name": "Bip01 R Finger02",
-			"parent": 29
+			"parent": 23
 		}, 
 		{
 			"name": "Bip01 R Finger1",
-			"parent": 27
-		}, 
-		{
-			"name": "Bip01 R Finger11",
-			"parent": 31
-		}, 
-		{
-			"name": "Bip01 R Finger12",
-			"parent": 32
+			"parent": 23
 		}
 	],
 	"skins": 1,
@@ -712,14 +680,14 @@
 		{
 			"flags": 0,
 			"height": 256,
-			"name": "dm_base.bmp",
+			"name": "commander.BMP",
 			"width": 256
 		}, 
 		{
 			"flags": 0,
-			"height": 128,
-			"name": "dm_face.bmp",
-			"width": 128
+			"height": 32,
+			"name": "beret_black.BMP",
+			"width": 64
 		}
 	],
 	"version": 10
